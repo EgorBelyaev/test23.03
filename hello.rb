@@ -1,5 +1,5 @@
 def hello
-    push 'Hello World!'
+    puts 'Hello World!'
 end
 
 if __FILE__ == $0
